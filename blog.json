@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "title": "The Evolution of Design",
+            "image": "https://via.placeholder.com/300",
+            "content": "Discover how design has shaped technology and culture over the years.",
+            "link": "https://example.com/post1"
+        },
+        {
+            "title": "AI in 2024",
+            "image": "https://via.placeholder.com/300",
+            "content": "How artificial intelligence is reshaping industries worldwide.",
+            "link": "https://example.com/post2"
+        },
+        {
+            "title": "Mastering Web Development",
+            "image": "https://via.placeholder.com/300",
+            "content": "Tips and tricks for becoming a skilled web developer in 2024.",
+            "link": "https://example.com/post3"
+        }
+    ]
+}
